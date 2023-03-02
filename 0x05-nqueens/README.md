@@ -1,7 +1,6 @@
 0x05. N Queens
 Algorithm
 Python
-
 Tasks
 0. N queens
 mandatory
